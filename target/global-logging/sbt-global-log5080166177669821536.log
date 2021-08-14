@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(jmh:run, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Jmh / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/vladislav/work/coin/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vladislav/work/coin/src/main/scala/coin/byte_buffers/UnsafeBaseline.scala:12:7: class UnsafeBaseline needs to be abstract. Missing implementation for:[0m
+[0m[[0m[31merror[0m] [0m[0m  def test: Unit[0m
+[0m[[0m[31merror[0m] [0m[0mclass UnsafeBaseline {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed 14 авг. 2021 г., 00:55:49[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
