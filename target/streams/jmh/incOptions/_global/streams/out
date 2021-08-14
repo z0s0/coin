@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/vladislav/work/coin/target/scala-2.13/jmh-classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UnsafeBaseline_testEndianAwareDirectBuffer_jmhTest.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UnsafeBaseline_testDirectBufferWithoutPointerShift_jmhTest.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UnsafeBaseline_testDirectBuffer_jmhTest.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/vladislav/work/coin/target/scala-2.13/jmh-classes.bak[0m

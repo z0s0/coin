@@ -1,4 +1,0 @@
-JMH S 32 coin.byte_buffers.UnsafeBaseline S 71 coin.byte_buffers.jmh_generated.UnsafeBaseline_testDirectBuffer_jmhTest S 16 testDirectBuffer S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 32 coin.byte_buffers.UnsafeBaseline S 90 coin.byte_buffers.jmh_generated.UnsafeBaseline_testDirectBufferWithoutPointerShift_jmhTest S 35 testDirectBufferWithoutPointerShift S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 32 coin.byte_buffers.UnsafeBaseline S 82 coin.byte_buffers.jmh_generated.UnsafeBaseline_testEndianAwareDirectBuffer_jmhTest S 27 testEndianAwareDirectBuffer S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 32 coin.byte_buffers.UnsafeBaseline S 68 coin.byte_buffers.jmh_generated.UnsafeBaseline_testUnsafeGet_jmhTest S 13 testUnsafeGet S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
