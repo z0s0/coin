@@ -35,6 +35,7 @@ object TailrecVsWhile {
       i += 1
     }
 
+    Map.empty[String, String]
     list
   }
 }
